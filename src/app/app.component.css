@@ -1,0 +1,26 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(182, 31, 31, 0.1);
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.search-container {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+
+
